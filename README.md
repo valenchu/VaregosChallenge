@@ -1,4 +1,6 @@
-# VaregosChallenge
+# VaregosChallenge 
+
+## Atencion usar el json de docs con moockon para correr la api.
 
 
 ## Pasos para configurar y ejecutar la aplicación con Docker
